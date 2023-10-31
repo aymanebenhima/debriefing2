@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         
         // verifier si les champs name et email sont vides ou si l'email n'est pas valide avec la fonction validateEmail
-        if (name.trim() === "" || email.trim() === "" || !validateEmail(email)) {
+        if () {
             // Afficher le modal d'erreur
             // ajouter le message d'erreur dans le modal d'erreur "Veuillez remplir tous les champs correctement."
 
